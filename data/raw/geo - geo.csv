@@ -1,0 +1,288 @@
+geo_level,geo_code,geo_label_en,geo_label_fa,latitude,longitude
+country,IR,Iran,ایران,32.4279,53.6880
+province,IR-01,East Azerbaijan,آذربایجان شرقی,38.0800,46.2900
+province,IR-02,West Azerbaijan,آذربایجان غربی,37.5500,45.0700
+province,IR-03,Ardabil,اردبیل,38.2500,48.2900
+province,IR-04,Isfahan,اصفهان,32.6546,51.6680
+province,IR-05,Alborz,البرز,35.8400,50.9390
+province,IR-06,Ilam,ایلام,33.6374,46.4227
+province,IR-07,Bushehr,بوشهر,28.9234,50.8203
+province,IR-08,Tehran,تهران,35.6892,51.3890
+province,IR-09,Chaharmahal and Bakhtiari,چهارمحال و بختیاری,32.3256,50.8644
+province,IR-10,South Khorasan,خراسان جنوبی,32.8663,59.2211
+province,IR-11,Razavi Khorasan,خراسان رضوی,36.2605,59.6168
+province,IR-12,North Khorasan,خراسان شمالی,37.4710,57.1010
+province,IR-13,Khuzestan,خوزستان,31.3270,48.6842
+province,IR-14,Zanjan,زنجان,36.6764,48.4963
+province,IR-15,Semnan,سمنان,35.5769,53.3920
+province,IR-16,Sistan and Baluchestan,سیستان و بلوچستان,29.4963,60.8629
+province,IR-17,Fars,فارس,29.5918,52.5837
+province,IR-18,Qazvin,قزوین,36.2688,50.0041
+province,IR-19,Qom,قم,34.6416,50.8746
+province,IR-20,Kurdistan,کردستان,35.3219,46.9862
+province,IR-21,Kerman,کرمان,30.2839,57.0834
+province,IR-22,Kermanshah,کرمانشاه,34.3142,47.0650
+province,IR-23,Kohgiluyeh and Boyer-Ahmad,کهگیلویه و بویراحمد,30.6682,51.5879
+province,IR-24,Golestan,گلستان,36.8456,54.4393
+province,IR-25,Gilan,گیلان,37.2808,49.5832
+province,IR-26,Lorestan,لرستان,33.4878,48.3558
+province,IR-27,Mazandaran,مازندران,36.5659,53.0586
+province,IR-28,Markazi,مرکزی,34.0917,49.6892
+province,IR-29,Hormozgan,هرمزگان,27.1832,56.2666
+province,IR-30,Hamadan,همدان,34.7980,48.5146
+province,IR-31,Yazd,یزد,31.8974,54.3569
+province,IR-X,Supranational,فرامنطقه‌ای,,
+global,INTL,International,بین‌المللی,,
+global,UNK,Unknown,نامشخص,,
+global,AD,Andorra,آندورا,42.5462,1.6016
+global,AE,United Arab Emirates,امارات متحده عربی,23.4241,53.8478
+global,AF,Afghanistan,افغانستان,33.9391,67.7100
+global,AG,Antigua and Barbuda,آنتیگوا و باربودا,17.0608,-61.7964
+global,AI,Anguilla,آنگویلا,18.2206,-63.0686
+global,AL,Albania,آلبانی,41.1533,20.1683
+global,AM,Armenia,ارمنستان,40.0691,45.0382
+global,AO,Angola,آنگولا,-11.2027,17.8739
+global,AQ,Antarctica,قطب جنوب,-75.2510,-0.0714
+global,AR,Argentina,آرژانتین,-38.4161,-63.6167
+global,AS,American Samoa,ساموآی آمریکا,-14.2710,-170.1322
+global,AT,Austria,اتریش,47.5162,14.5501
+global,AU,Australia,استرالیا,-25.2744,133.7751
+global,AW,Aruba,آروبا,12.5211,-69.9683
+global,AX,Åland Islands,جزایر آلند,,
+global,AZ,Azerbaijan,آذربایجان,40.1431,47.5769
+global,BA,Bosnia and Herzegovina,بوسنی و هرزگوین,43.9159,17.6791
+global,BB,Barbados,باربادوس,13.1939,-59.5432
+global,BD,Bangladesh,بنگلادش,23.6850,90.3563
+global,BE,Belgium,بلژیک,50.5039,4.4699
+global,BF,Burkina Faso,بورکینافاسو,12.2383,-1.5616
+global,BG,Bulgaria,بلغارستان,42.7339,25.4858
+global,BH,Bahrain,بحرین,25.9304,50.6378
+global,BI,Burundi,بوروندی,-3.3731,29.9189
+global,BJ,Benin,بنین,9.3077,2.3158
+global,BL,Saint Barthélemy,سنت بارتلمی,,
+global,BM,Bermuda,برمودا,32.3214,-64.7574
+global,BN,Brunei Darussalam,برونئی دارالسلام,4.5353,114.7277
+global,BO,Bolivia,بولیوی,-16.2902,-63.5887
+global,BQ,"Bonaire, Sint Eustatius and Saba",بونیر، سینت اوستاتیوس و صبا,,
+global,BR,Brazil,برزیل,-14.2350,-51.9253
+global,BS,Bahamas,باهاما,25.0343,-77.3963
+global,BT,Bhutan,بوتان,27.5142,90.4336
+global,BV,Bouvet Island,جزیره بووه,-54.4232,3.4132
+global,BW,Botswana,بوتسوانا,-22.3285,24.6849
+global,BY,Belarus,بلاروس,53.7098,27.9534
+global,BZ,Belize,بلیز,17.1899,-88.4977
+global,CA,Canada,کانادا,56.1304,-106.3468
+global,CC,Cocos (Keeling) Islands,جزایر کوکوس (کیلینگ),-12.1642,96.8710
+global,CD,"Congo, The Democratic Republic of the",کنگو، جمهوری دموکراتیک,-4.0383,21.7587
+global,CF,Central African,آفریقای مرکزی,6.6111,20.9394
+global,CG,Congo,کنگو,-0.2280,15.8277
+global,CH,Switzerland,سوئیس,46.8182,8.2275
+global,CI,Côte d'Ivoire,ساحل عاج,7.5400,-5.5471
+global,CK,Cook Islands,جزایر کوک,-21.2367,-159.7777
+global,CL,Chile,شیلی,-35.6751,-71.5430
+global,CM,Cameroon,کامرون,7.3697,12.3547
+global,CN,China,چین,35.8617,104.1954
+global,CO,Colombia,کلمبیا,4.5709,-74.2973
+global,CR,Costa Rica,کاستاریکا,9.7489,-83.7534
+global,CU,Cuba,کوبا,21.5218,-77.7812
+global,CV,Cabo Verde,کابو ورد,16.0021,-24.0132
+global,CW,Curaçao,کوراسائو,,
+global,CX,Christmas Island,جزیره کریسمس,-10.4475,105.6904
+global,CY,Cyprus,قبرس,35.1264,33.4299
+global,CZ,Czechia,چک,49.8175,15.4730
+global,DE,Germany,آلمان,51.1657,10.4515
+global,DJ,Djibouti,جیبوتی,11.8251,42.5903
+global,DK,Denmark,دانمارک,56.2639,9.5018
+global,DM,Dominica,دومینیکا,15.4150,-61.3710
+global,DO,Dominican Republic,دومینیکن,18.7357,-70.1627
+global,DZ,Algeria,الجزایر,28.0339,1.6596
+global,EC,Ecuador,اکوادور,-1.8312,-78.1834
+global,EE,Estonia,استونی,58.5953,25.0136
+global,EG,Egypt,مصر,26.8206,30.8025
+global,EH,Western Sahara,صحرای غربی,24.2155,-12.8858
+global,ER,Eritrea,اریتره,15.1794,39.7823
+global,ES,Spain,اسپانیا,40.4637,-3.7492
+global,ET,Ethiopia,اتیوپی,9.1450,40.4897
+global,FI,Finland,فنلاند,61.9241,25.7482
+global,FJ,Fiji,فیجی,-16.5782,179.4144
+global,FK,Falkland Islands (Malvinas),جزایر فالکلند (مالویناس),-51.7963,-59.5236
+global,FM,Micronesia,میکرونزی,7.4256,150.5508
+global,FO,Faroe Islands,جزایر فارو,61.8926,-6.9118
+global,FR,France,فرانسه,46.2276,2.2137
+global,GA,Gabon,گابن,-0.8037,11.6094
+global,GB,United Kingdom,بریتانیا,55.3781,-3.4360
+global,GD,Grenada,گرنادا,12.2628,-61.6042
+global,GE,Georgia,گرجستان,42.3154,43.3569
+global,GF,French Guiana,گویان فرانسه,3.9339,-53.1258
+global,GG,Guernsey,گرنزی,49.4657,-2.5853
+global,GH,Ghana,غنا,7.9465,-1.0232
+global,GI,Gibraltar,جبل الطارق,36.1377,-5.3454
+global,GL,Greenland,گرینلند,71.7069,-42.6043
+global,GM,Gambia,گامبیا,13.4432,-15.3101
+global,GN,Guinea,گینه,9.9456,-9.6966
+global,GP,Guadeloupe,گوادلوپ,16.9960,-62.0676
+global,GQ,Equatorial Guinea,گینه استوایی,1.6508,10.2679
+global,GR,Greece,یونان,39.0742,21.8243
+global,GS,South Georgia and the South Sandwich Islands,جزایر جورجیای جنوبی و ساندویچ جنوبی,-54.4296,-36.5879
+global,GT,Guatemala,گواتمالا,15.7835,-90.2308
+global,GU,Guam,گوام,13.4443,144.7937
+global,GW,Guinea-Bissau,گینه بیسائو,11.8037,-15.1804
+global,GY,Guyana,گویانا,4.8604,-58.9302
+global,HK,Hong Kong,هنگ کنگ,22.3964,114.1095
+global,HM,Heard Island and McDonald Islands,جزیره هرد و جزایر مک‌دونالد,-53.0818,73.5042
+global,HN,Honduras,هندوراس,15.2000,-86.2419
+global,HR,Croatia,کرواسی,45.1000,15.2000
+global,HT,Haiti,هائیتی,18.9712,-72.2852
+global,HU,Hungary,مجارستان,47.1625,19.5033
+global,ID,Indonesia,اندونزی,-0.7893,113.9213
+global,IE,Ireland,ایرلند,53.4129,-8.2439
+global,IL,Israel,اسرائیل,31.0461,34.8516
+global,IM,Isle of Man,جزیره من,54.2361,-4.5481
+global,IN,India,هند,20.5937,78.9629
+global,IO,British Indian Ocean Territory,قلمرو بریتانیا در اقیانوس هند,-6.3432,71.8765
+global,IQ,Iraq,عراق,33.2232,43.6793
+global,IR,Iran,ایران,32.4279,53.6880
+global,IS,Iceland,ایسلند,64.9631,-19.0208
+global,IT,Italy,ایتالیا,41.8719,12.5674
+global,JE,Jersey,جرسی,49.2144,-2.1313
+global,JM,Jamaica,جامائیکا,18.1096,-77.2975
+global,JO,Jordan,اردن,30.5852,36.2384
+global,JP,Japan,ژاپن,36.2048,138.2529
+global,KE,Kenya,کنیا,-0.0236,37.9062
+global,KG,Kyrgyzstan,قرقیزستان,41.2044,74.7661
+global,KH,Cambodia,کامبوج,12.5657,104.9910
+global,KI,Kiribati,کیریباتی,-3.3704,-168.7340
+global,KM,Comoros,کومور,-11.8750,43.8722
+global,KN,Saint Kitts and Nevis,سنت کیتس و نویس,17.3578,-62.7830
+global,KP,North Korea,کره شمالی,40.3399,127.5101
+global,KR,South Korea,کره جنوبی,35.9078,127.7669
+global,KW,Kuwait,کویت,29.3117,47.4818
+global,KY,Cayman Islands,جزایر کیمن,19.5135,-80.5670
+global,KZ,Kazakhstan,قزاقستان,48.0196,66.9237
+global,LA,Laos,لائوس,19.8563,102.4955
+global,LB,Lebanon,لبنان,33.8547,35.8623
+global,LC,Saint Lucia,سنت لوسیا,13.9094,-60.9789
+global,LI,Liechtenstein,لیختن‌اشتاین,47.1660,9.5554
+global,LK,Sri Lanka,سریلانکا,7.8731,80.7718
+global,LR,Liberia,لیبریا,6.4281,-9.4295
+global,LS,Lesotho,لسوتو,-29.6100,28.2336
+global,LT,Lithuania,لیتوانی,55.1694,23.8813
+global,LU,Luxembourg,لوکزامبورگ,49.8153,6.1296
+global,LV,Latvia,لتونی,56.8796,24.6032
+global,LY,Libya,لیبی,26.3351,17.2283
+global,MA,Morocco,مراکش,31.7917,-7.0926
+global,MC,Monaco,موناکو,43.7503,7.4128
+global,MD,"Moldova, Republic of",مولداوی,47.4116,28.3699
+global,ME,Montenegro,مونته‌نگرو,42.7087,19.3744
+global,MF,Saint Martin (French part),سنت مارتین (بخش فرانسوی),,
+global,MG,Madagascar,ماداگاسکار,-18.7669,46.8691
+global,MH,Marshall Islands,جزایر مارشال,7.1315,171.1845
+global,MK,North Macedonia,مقدونیه شمالی,41.6086,21.7453
+global,ML,Mali,مالی,17.5707,-3.9962
+global,MM,Myanmar,میانمار,21.9140,95.9562
+global,MN,Mongolia,مغولستان,46.8625,103.8467
+global,MO,Macao,ماکائو,22.1987,113.5439
+global,MP,Northern Mariana Islands,جزایر ماریانای شمالی,17.3308,145.3847
+global,MQ,Martinique,مارتینیک,14.6415,-61.0242
+global,MR,Mauritania,موریتانی,21.0079,-10.9408
+global,MS,Montserrat,مونتسرات,16.7425,-62.1874
+global,MT,Malta,مالت,35.9375,14.3754
+global,MU,Mauritius,موریس,-20.3484,57.5522
+global,MV,Maldives,مالدیو,3.2028,73.2207
+global,MW,Malawi,مالاوی,-13.2543,34.3015
+global,MX,Mexico,مکزیک,23.6345,-102.5528
+global,MY,Malaysia,مالزی,4.2105,101.9758
+global,MZ,Mozambique,موزامبیک,-18.6657,35.5296
+global,NA,Namibia,نامیبیا,-22.9576,18.4904
+global,NC,New Caledonia,کالدونیای جدید,-20.9043,165.6180
+global,NE,Niger,نیجر,17.6078,8.0817
+global,NF,Norfolk Island,جزیره نورفولک,-29.0408,167.9547
+global,NG,Nigeria,نیجریه,9.0820,8.6753
+global,NI,Nicaragua,نیکاراگوئه,12.8654,-85.2072
+global,NL,Netherlands,هلند,52.1326,5.2913
+global,NO,Norway,نروژ,60.4720,8.4689
+global,NP,Nepal,نپال,28.3949,84.1240
+global,NR,Nauru,نائورو,-0.5228,166.9315
+global,NU,Niue,نیوئه,-19.0544,-169.8672
+global,NZ,New Zealand,نیوزیلند,-40.9006,174.8860
+global,OM,Oman,عمان,21.5126,55.9233
+global,PA,Panama,پاناما,8.5380,-80.7821
+global,PE,Peru,پرو,-9.1900,-75.0152
+global,PF,French Polynesia,پلی‌نزی فرانسه,-17.6797,-149.4068
+global,PG,Papua New Guinea,پاپوآ گینه نو,-6.3150,143.9556
+global,PH,Philippines,فیلیپین,12.8797,121.7740
+global,PK,Pakistan,پاکستان,30.3753,69.3451
+global,PL,Poland,لهستان,51.9194,19.1451
+global,PM,Saint Pierre and Miquelon,سنت پیر و میکلون,46.9419,-56.2711
+global,PN,Pitcairn,پیت‌کرن,-24.7036,-127.4393
+global,PR,Puerto Rico,پورتوریکو,18.2208,-66.5901
+global,PS,Palestine,فلسطین,31.9522,35.2332
+global,PT,Portugal,پرتغال,39.3999,-8.2245
+global,PW,Palau,پالائو,7.5150,134.5825
+global,PY,Paraguay,پاراگوئه,-23.4425,-58.4438
+global,QA,Qatar,قطر,25.3548,51.1839
+global,RE,Réunion,رئونیون,-21.1151,55.5364
+global,RO,Romania,رومانی,45.9432,24.9668
+global,RS,Serbia,صربستان,44.0165,21.0059
+global,RU,Russian Federation,فدراسیون روسیه,61.5240,105.3188
+global,RW,Rwanda,رواندا,-1.9403,29.8739
+global,SA,Saudi Arabia,عربستان سعودی,23.8859,45.0792
+global,SB,Solomon Islands,جزایر سلیمان,-9.6457,160.1562
+global,SC,Seychelles,سیشل,-4.6796,55.4920
+global,SD,Sudan,سودان,12.8628,30.2176
+global,SE,Sweden,سوئد,60.1282,18.6435
+global,SG,Singapore,سنگاپور,1.3521,103.8198
+global,SH,"Saint Helena, Ascension and Tristan da Cunha",سنت هلنا، اسنشن و تریستان دا کونا,-24.1435,-10.0307
+global,SI,Slovenia,اسلوونی,46.1512,14.9955
+global,SJ,Svalbard and Jan Mayen,سوالبارد و جان ماین,77.5536,23.6703
+global,SK,Slovakia,اسلواکی,48.6690,19.6990
+global,SL,Sierra Leone,سیرالئون,8.4606,-11.7799
+global,SM,San Marino,سن مارینو,43.9424,12.4578
+global,SN,Senegal,سنگال,14.4974,-14.4524
+global,SO,Somalia,سومالی,5.1521,46.1996
+global,SR,Suriname,سورینام,3.9193,-56.0278
+global,SS,South Sudan,سودان جنوبی,,
+global,ST,Sao Tome and Principe,سائوتومه و پرینسیپ,0.1864,6.6131
+global,SV,El Salvador,السالوادور,13.7942,-88.8965
+global,SX,Sint Maarten (Dutch part),سنت مارتن (بخش هلندی),,
+global,SY,Syria,سوریه,34.8021,38.9968
+global,SZ,Eswatini,اسواتینی,-26.5225,31.4659
+global,TC,Turks and Caicos Islands,جزایر تورکس و کایکوس,21.6940,-71.7979
+global,TD,Chad,چاد,15.4542,18.7322
+global,TF,French Southern Territories,سرزمین‌های جنوبی فرانسه,-49.2804,69.3486
+global,TG,Togo,توگو,8.6195,0.8248
+global,TH,Thailand,تایلند,15.8700,100.9925
+global,TJ,Tajikistan,تاجیکستان,38.8610,71.2761
+global,TK,Tokelau,توکلائو,-8.9674,-171.8559
+global,TL,Timor-Leste,تیمور شرقی,-8.8742,125.7275
+global,TM,Turkmenistan,ترکمنستان,38.9697,59.5563
+global,TN,Tunisia,تونس,33.8869,9.5375
+global,TO,Tonga,تونگا,-21.1790,-175.1982
+global,TR,Turkey,ترکیه,38.9637,35.2433
+global,TT,Trinidad and Tobago,ترینیداد و توباگو,10.6918,-61.2225
+global,TV,Tuvalu,تووالو,-7.1095,177.6493
+global,TW,Taiwan,تایوان,23.6978,120.9605
+global,TZ,Tanzania,تانزانیا,-6.3690,34.8888
+global,UA,Ukraine,اوکراین,48.3794,31.1656
+global,UG,Uganda,اوگاندا,1.3733,32.2903
+global,UM,United States Minor Outlying Islands,جزایر کوچک حاشیه‌ای ایالات متحده,,
+global,US,United States,ایالات متحده,37.0902,-95.7129
+global,UY,Uruguay,اروگوئه,-32.5228,-55.7658
+global,UZ,Uzbekistan,ازبکستان,41.3775,64.5853
+global,VA,Holy See (Vatican City State),سریر مقدس (دولت شهر واتیکان),41.9029,12.4534
+global,VC,Saint Vincent and the Grenadines,سنت وینسنت و گرنادین‌ها,12.9843,-61.2872
+global,VE,Venezuela,ونزوئلا,6.4238,-66.5897
+global,VG,"Virgin Islands, British",جزایر ویرجین، بریتانیا,18.4207,-64.6400
+global,VI,"Virgin Islands, U.S.",جزایر ویرجین، ایالات متحده,18.3358,-64.8963
+global,VN,Viet Nam,ویتنام,14.0583,108.2772
+global,VU,Vanuatu,وانواتو,-15.3767,166.9592
+global,WF,Wallis and Futuna,والیس و فوتونا,-13.7688,-177.1561
+global,WS,Samoa,ساموآ,-13.7590,-172.1046
+global,YE,Yemen,یمن,15.5527,48.5164
+global,YT,Mayotte,مایوت,-12.8275,45.1662
+global,ZA,South Africa,آفریقای جنوبی,-30.5595,22.9375
+global,ZM,Zambia,زامبیا,-13.1339,27.8493
+global,ZW,Zimbabwe,زیمبابوه,-19.0154,29.1549
+global,SEZ,Special economic zones,مناطق ویژه,,
+global,SFZ,Special economic zones,مناطق آزاد,,
+global,OTH,Other,سایر کشورها,,

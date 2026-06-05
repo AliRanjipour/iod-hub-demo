@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# R
+.Rhistory
+
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# DuckDB temporary files
+*.wal
+
+# Streamlit secrets
+.streamlit/secrets.toml
